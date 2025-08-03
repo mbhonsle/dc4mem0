@@ -1,3 +1,3 @@
-# PyDC-Auth
+# DC4Mem0
 
-A collection of Python OAuth Clients for Salesforce Data Cloud.
+Salesforce Data Cloud vector store plugin for Mem0
